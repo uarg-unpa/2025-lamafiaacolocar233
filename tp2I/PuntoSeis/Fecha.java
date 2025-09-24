@@ -1,4 +1,4 @@
-package tp2.PuntoSeis;
+
 
 public class Fecha {
     private int dia;

@@ -1,4 +1,3 @@
-package tp2.PuntoCuatro;
 
 public class Televisor {
     private String marca;

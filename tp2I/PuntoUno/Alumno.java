@@ -1,4 +1,3 @@
-package tp2;
 
 public class Alumno {
     private String nombre;

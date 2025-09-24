@@ -1,4 +1,4 @@
-package tp2.PuntoCuatro;
+
 
 import java.util.Scanner;
 public class PruebaTelevisor {

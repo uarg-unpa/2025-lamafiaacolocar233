@@ -1,4 +1,4 @@
-package tp2.PuntoCinco;
+
 
 public class Hora {
     private int hora;

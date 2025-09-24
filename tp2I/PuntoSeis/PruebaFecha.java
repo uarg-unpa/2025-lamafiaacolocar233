@@ -1,4 +1,4 @@
-package tp2.PuntoSeis;
+
 
 import java.util.Scanner;
 

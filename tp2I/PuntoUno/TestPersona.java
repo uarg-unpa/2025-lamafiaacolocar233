@@ -1,4 +1,4 @@
-package tp2;
+
 
 public class TestPersona {
     public static void main(String[] args) {

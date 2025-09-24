@@ -1,4 +1,4 @@
-package tp2;
+
 
 public class Televisor {
     private String marca;
