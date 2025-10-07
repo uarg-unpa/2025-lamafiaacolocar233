@@ -1,5 +1,4 @@
 
-
 import java.util.Scanner;
 public class PruebaTelevisor {
     public static void main(String[] args) {
@@ -12,8 +11,13 @@ public class PruebaTelevisor {
         System.out.print("Ingrese el tamaño en pulgadas: ");
         int pulgadas = sc.nextInt();
 
+        System.out.print("Ingrese la medida del volumne: ");
+        int volumen = sc.nextInt();
+
+        System.out.print("Ingrese el numero del canal: ");
+        int canal = sc.nexInt(); 
      
-        Televisor tv = new Televisor(marca, pulgadas);
+        Televisor tv = new Televisor(marca, pulgadas, volumen, canal);
 
         // Mostrar estado inicial
         System.out.println("\nEstado inicial del televisor:");
