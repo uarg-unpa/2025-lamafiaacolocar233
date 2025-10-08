@@ -1,4 +1,3 @@
-package tp3;
 
 import java.util.Scanner;
 public class PuntoOcho {

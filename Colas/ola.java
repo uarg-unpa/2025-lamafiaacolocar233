@@ -3,7 +3,7 @@ public class ola {
     private int frente;
     private int fin;
     private final int MAX = 10;
-    public cola() {
+    public ola() {
         elementos = new int[MAX];
         frente = 0;
         fin = 0;

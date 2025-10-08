@@ -1,4 +1,3 @@
-package PuntoTres.PuntoCuatro;
 
 public class Cola {
     private int[] elementos;  

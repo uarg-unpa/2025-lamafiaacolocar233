@@ -91,4 +91,9 @@ public class Cola {
 
         return iguales;
     }
+
+    public void eliminarRepetidos() {
+        // TODO Auto-generated method stub
+        throw new UnsupportedOperationException("Unimplemented method 'eliminarRepetidos'");
+    }
 }

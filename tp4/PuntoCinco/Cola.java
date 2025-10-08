@@ -26,7 +26,7 @@ public class Cola {
             fin = (fin + 1) % MAX;
             cantidad++;
         } else {
-            System.out.println("⚠️ Cola llena.");
+            System.out.println(" Cola llena.");
         }
     }
 
@@ -37,7 +37,7 @@ public class Cola {
             cantidad--;
             return aux;
         } else {
-            System.out.println("⚠️ Cola vacía.");
+            System.out.println(" Cola vacía.");
             return -1;
         }
     }

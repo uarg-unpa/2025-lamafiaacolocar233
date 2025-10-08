@@ -1,4 +1,4 @@
-package tp3;
+
 
 public class PuntoSiete {
     public static void main(String[] args) {
